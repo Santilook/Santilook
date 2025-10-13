@@ -84,6 +84,6 @@
 <p align="center">
   <a href="mailto:santinahuel200@gmail.com" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" /></a>
   <a href="https://github.com/Santilook" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/github.png" /></a>
-  <a href="www.linkedin.com/in/fullstacksantiago" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" /></a>
+  <a href="www.linkedin.com/in/fullstacksantiago/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" /></a>
 </p>
 
