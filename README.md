@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hola, soy Santiago López</h1>
   <p align="center">
     <a href="https://github.com/DenverCoder1/readme-typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=💻+Estudiante+de+Desarrollo+de+Software;🌐+Desarrollador+Web+Full+Stack;🚀+Apasionado+por+la+programación;📱+Creador+de+proyectos+prácticos;🌱+Siempre+aprendiendo+nuevas+tecnologías">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=💻+Tecnico+en+Desarrollo+de+Software;🌐+Desarrollador+Web+Full+Stack;🚀+Apasionado+por+la+programación;📱+Creador+de+proyectos+prácticos;🌱+Siempre+aprendiendo+nuevas+tecnologías">
     </a>
   </p>
 <h3 align="center">Apasionado por el desarrollo web y la innovación</h3>
