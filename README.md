@@ -9,7 +9,7 @@
 ---
 
 ## 🚀 Sobre mí
-- 🎓 Tengo **24 años** y estudio **Desarrollo de Software**.  
+- 🎓 Tengo **24 años** y soy Tecnico en **Desarrollo de Software**.  
 - 💻 Me interesa el **desarrollo web full stack**, enfocado en el frontend y bases de datos.  
 - 📱 He creado proyectos como un **bot de Telegram**, un **ecommerce en WordPress**, y un **sistema de inventario con lector de códigos de barras**.  
 - 🌱 Actualmente aprendiendo **Django, TailwindCSS, Astro y GSAP**.  
