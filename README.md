@@ -12,7 +12,7 @@
 - 🎓 Tengo **24 años** y soy Tecnico en **Desarrollo de Software**.  
 - 💻 Me interesa el **desarrollo web full stack**, enfocado en el frontend y bases de datos.  
 - 📱 He creado proyectos como un **bot de Telegram**, un **ecommerce en WordPress**, y un **sistema de inventario con lector de códigos de barras**.  
-- 🌱 Actualmente aprendiendo **Django, TailwindCSS, Astro y GSAP**.  
+- 🌱 Actualmente aprendiendo **Next.js, React**.  
 - 🤝 Buscando colaborar en proyectos que generen impacto real.  
 
 ---
@@ -28,6 +28,8 @@
 
 ### Frontend
 <p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white" />
@@ -35,6 +37,11 @@
   <img src="https://img.shields.io/badge/Astro-FF5D01?logo=astro&logoColor=white" />
   <img src="https://img.shields.io/badge/GSAP-88CE02?logo=greensock&logoColor=black" />
   <img src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white" />
+</p>
+
+### Backend
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" />
 </p>
 
 ### Bases de Datos & Hosting
@@ -86,4 +93,3 @@
   <a href="https://github.com/Santilook" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/github.png" /></a>
   <a href="www.linkedin.com/in/fullstacksantiago/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" /></a>
 </p>
-
